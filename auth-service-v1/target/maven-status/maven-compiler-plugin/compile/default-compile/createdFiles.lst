@@ -1,0 +1,15 @@
+com\quiz\dto\LoginRequest.class
+com\quiz\entity\User$UserBuilder.class
+com\quiz\security\SecurityConfig.class
+com\quiz\repository\UserRepository.class
+com\quiz\dto\RegisterRequest.class
+com\quiz\entity\User.class
+com\quiz\dto\AuthResponse.class
+com\quiz\security\JwtAuthFilter.class
+com\quiz\service\AuthService.class
+com\quiz\controller\AuthController.class
+com\quiz\service\UserDetailsServiceImpl.class
+com\quiz\controller\TestController.class
+com\quiz\security\JwtService.class
+com\quiz\entity\Role.class
+com\quiz\QuizAuthServiceApplication.class

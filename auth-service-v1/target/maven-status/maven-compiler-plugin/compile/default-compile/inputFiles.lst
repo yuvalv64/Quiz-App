@@ -1,0 +1,14 @@
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\dto\AuthResponse.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\service\AuthService.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\dto\LoginRequest.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\dto\RegisterRequest.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\controller\AuthController.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\entity\User.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\entity\Role.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\repository\UserRepository.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\service\UserDetailsServiceImpl.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\controller\TestController.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\security\SecurityConfig.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\QuizAuthServiceApplication.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\security\JwtAuthFilter.java
+C:\Users\yuval\projects\Quiz-App\auth-service-v1\src\main\java\com\quiz\security\JwtService.java
